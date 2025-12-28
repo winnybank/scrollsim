@@ -87,7 +87,7 @@ Pick one of these (much better than default CMD):
 
 **Option A: Using Git (Recommended)**
 ```bash
-git clone https://github.com/yourusername/scrollsim.git
+git clone https://github.com/winnybank/scrollsim.git
 cd scrollsim
 ```
 
@@ -405,28 +405,6 @@ scrollsim/
 - The app works best with 100-500 posts per account
 - For 1000+ posts, consider creating multiple accounts
 - Videos load thumbnails only until you click play
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest features
-- Submit pull requests
-
----
-
-## 📄 License
-
-MIT License - see LICENSE file for details
-
----
-
-## 🆘 Need Help?
-
-- **GitHub Issues:** [Report bugs or ask questions](https://github.com/yourusername/scrollsim/issues)
-- **Discussions:** [Community help and ideas](https://github.com/yourusername/scrollsim/discussions)
 
 ---
 
